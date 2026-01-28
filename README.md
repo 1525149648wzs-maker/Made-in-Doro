@@ -1,17 +1,2 @@
-做好的资源记得标名字
+<img width="789" height="759" alt="image" src="https://github.com/user-attachments/assets/b71f0891-8773-44cc-86c5-5f3dadbef466" />做好的资源记得标名字
 美术资产文件格式如下，根据文件夹放入资源
-Art/ (美术根目录)
-├── Animation/ (动画)
-│   ├── Attack/ (攻击)
-│   ├── Jump/ (跳跃)
-│   ├── Run/ (奔跑)
-│   └── ... (其他动作名称)
-├── Background/ (背景)
-│   ├── BG1/, BG2/, BG3/ (室外背景层)
-│   └── Tile/ (瓦片)
-│       ├── Ground/ (地面)
-│       ├── Wall/ (墙体)
-│       └── Nocollision/ (无碰撞背景)
-└── UI/ (用户界面)
-    ├── Fonts/ (字体)
-    └── Prefab/ (预制体)
